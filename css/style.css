@@ -1,0 +1,93 @@
+body {
+	background-color:white;
+	height: 2000px;
+
+}
+/*Columns floating*/ 
+.content01 {
+	background-color:;
+	height: 360px;
+}
+
+.content02 {
+	background-color:;
+	height: 360px;
+}
+.content03 {
+	background-color:;
+	height:410px;
+}
+
+
+.content1 {
+	background-color:	;
+	height: 400px;
+
+	
+}
+.content2 {
+	background-color:;
+	height: 400px;
+	
+}
+
+
+
+
+
+
+
+
+/*Image floating*/ 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.globe {
+	padding-right: 20px;
+	padding-top: 60px;
+}
+.sun {
+	padding-top: 35px;
+	padding-right: 18px;
+}
+
+
+/*Text floating*/ 
+h1 {
+	text-align: center;
+
+}
+h5 {
+	text-align: center;
+}
+
+
+p {
+	text-align: center;
+}
+
+
+h3 {
+	text-align: center;
+}
+
+
+.right  {
+
+	padding-top: 40px;
+	padding-left: 50px;
+}
+.left  {
+
+	padding-top: 25px;
+	padding-left: 50px;
+	}
+.center  {
+text-align: center;
+font
+	}
+	
+
